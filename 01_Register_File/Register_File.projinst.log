@@ -1,0 +1,88 @@
+Plugin v0.0.1 running on KiCad 10.0.4+b1 and Python 3.14.6 (main, Jun 10 2026, 18:54:31) [GCC 15.2.0] on linux.
+Valid Board found for /home/joshuas/Documents/projects/kicad/Zeno_HC16/01_Register_File/Register_File.kicad_sch
+12 sheet instances entries in /home/joshuas/Documents/projects/kicad/Zeno_HC16/01_Register_File/Register_File.kicad_sch
+Valid Board found for /home/joshuas/Documents/projects/kicad/Zeno_HC16/01_Register_File/../Modules/bus_driver/bus_driver.kicad_sch
+Valid Board found for /home/joshuas/Documents/projects/kicad/Zeno_HC16/01_Register_File/../Modules/register/register.kicad_sch
+New Anchor not found
+Anchor changed to U2
+Enabled leaf: 0f21b859-0eb3-4e1d-94c3-2dd85776f413
+Enabled leaf: 2c48143b-4c52-4b57-b1d7-3249a186e942
+Enabled leaf: 34468962-bb63-43ab-b20a-c80c986141c6
+Enabled leaf: 4e0d724f-9bd6-4efd-b216-641b115a9b15
+Enabled leaf: 525c4447-37e4-4f81-876c-a3fd84fe8e12
+Enabled leaf: 82af68be-6c1c-4367-8ce3-28ce44a0d460
+Enabled leaf: c8314366-1198-42a8-b845-61455267ff83
+Enabled leaf: e1cef373-7a11-42ff-a54c-dcd896b702d7
+Enabled leaf: ed69c02c-a492-49be-bb44-e31d5a408bb1
+Enabled leaf: ee2f042e-614a-482e-9fa4-480bb306018b
+Enabled leaf: eecb4989-a8f0-483a-900a-461497b82734
+Enabled leaf: fb0372ba-42f3-4929-8ead-7b0b99ca72ef
+Root item: <wx._dataview.TreeListItem object at 0x7fe07a8b92e0>
+Valid board for 0f21b859-0eb3-4e1d-94c3-2dd85776f413
+Valid child board for 
+Instance is a branch: Root
+Valid board for 0f21b859-0eb3-4e1d-94c3-2dd85776f413
+Instance is a leaf: /0f21b859-0eb3-4e1d-94c3-2dd85776f413
+Valid board for 2c48143b-4c52-4b57-b1d7-3249a186e942
+Instance is a leaf: /2c48143b-4c52-4b57-b1d7-3249a186e942
+Valid board for 34468962-bb63-43ab-b20a-c80c986141c6
+Instance is a leaf: /34468962-bb63-43ab-b20a-c80c986141c6
+Valid board for 4e0d724f-9bd6-4efd-b216-641b115a9b15
+Instance is a leaf: /4e0d724f-9bd6-4efd-b216-641b115a9b15
+Valid board for 525c4447-37e4-4f81-876c-a3fd84fe8e12
+Instance is a leaf: /525c4447-37e4-4f81-876c-a3fd84fe8e12
+Valid board for 82af68be-6c1c-4367-8ce3-28ce44a0d460
+Instance is a leaf: /82af68be-6c1c-4367-8ce3-28ce44a0d460
+Valid board for c8314366-1198-42a8-b845-61455267ff83
+Instance is a leaf: /c8314366-1198-42a8-b845-61455267ff83
+Valid board for e1cef373-7a11-42ff-a54c-dcd896b702d7
+Instance is a leaf: /e1cef373-7a11-42ff-a54c-dcd896b702d7
+Valid board for ed69c02c-a492-49be-bb44-e31d5a408bb1
+Instance is a leaf: /ed69c02c-a492-49be-bb44-e31d5a408bb1
+Valid board for ee2f042e-614a-482e-9fa4-480bb306018b
+Instance is a leaf: /ee2f042e-614a-482e-9fa4-480bb306018b
+Valid board for eecb4989-a8f0-483a-900a-461497b82734
+Instance is a leaf: /eecb4989-a8f0-483a-900a-461497b82734
+Valid board for fb0372ba-42f3-4929-8ead-7b0b99ca72ef
+Instance is a leaf: /fb0372ba-42f3-4929-8ead-7b0b99ca72ef
+Enabled leaf: fb0372ba-42f3-4929-8ead-7b0b99ca72ef
+subPcb selected A register Y-Bus1 with 6 anchors
+Enabled leaf: fb0372ba-42f3-4929-8ead-7b0b99ca72ef
+Enabled leaf: eecb4989-a8f0-483a-900a-461497b82734
+Enabled leaf: ee2f042e-614a-482e-9fa4-480bb306018b
+Enabled leaf: ed69c02c-a492-49be-bb44-e31d5a408bb1
+Enabled leaf: e1cef373-7a11-42ff-a54c-dcd896b702d7
+Enabled leaf: c8314366-1198-42a8-b845-61455267ff83
+Enabled leaf: 82af68be-6c1c-4367-8ce3-28ce44a0d460
+Enabled leaf: 525c4447-37e4-4f81-876c-a3fd84fe8e12
+Enabled leaf: 4e0d724f-9bd6-4efd-b216-641b115a9b15
+Enabled leaf: 34468962-bb63-43ab-b20a-c80c986141c6
+Enabled leaf: 2c48143b-4c52-4b57-b1d7-3249a186e942
+Enabled leaf: 0f21b859-0eb3-4e1d-94c3-2dd85776f413
+Enabled leaf: fb0372ba-42f3-4929-8ead-7b0b99ca72ef
+Enabled leaf: eecb4989-a8f0-483a-900a-461497b82734
+Enabled leaf: ee2f042e-614a-482e-9fa4-480bb306018b
+Enabled leaf: ed69c02c-a492-49be-bb44-e31d5a408bb1
+Enabled leaf: e1cef373-7a11-42ff-a54c-dcd896b702d7
+Enabled leaf: c8314366-1198-42a8-b845-61455267ff83
+Enabled leaf: 82af68be-6c1c-4367-8ce3-28ce44a0d460
+Enabled leaf: 525c4447-37e4-4f81-876c-a3fd84fe8e12
+Enabled leaf: 4e0d724f-9bd6-4efd-b216-641b115a9b15
+Enabled leaf: 34468962-bb63-43ab-b20a-c80c986141c6
+Enabled leaf: 2c48143b-4c52-4b57-b1d7-3249a186e942
+Enabled leaf: 0f21b859-0eb3-4e1d-94c3-2dd85776f413
+Saving info for 0f21b859-0eb3-4e1d-94c3-2dd85776f413
+Saving info for 2c48143b-4c52-4b57-b1d7-3249a186e942
+Saving info for 34468962-bb63-43ab-b20a-c80c986141c6
+Saving info for 4e0d724f-9bd6-4efd-b216-641b115a9b15
+Saving info for 525c4447-37e4-4f81-876c-a3fd84fe8e12
+Saving info for 82af68be-6c1c-4367-8ce3-28ce44a0d460
+Saving info for c8314366-1198-42a8-b845-61455267ff83
+Saving info for e1cef373-7a11-42ff-a54c-dcd896b702d7
+Saving info for ed69c02c-a492-49be-bb44-e31d5a408bb1
+Saving info for ee2f042e-614a-482e-9fa4-480bb306018b
+Saving info for eecb4989-a8f0-483a-900a-461497b82734
+Saving info for fb0372ba-42f3-4929-8ead-7b0b99ca72ef
+Saving anchor U3 for /home/joshuas/Documents/projects/kicad/Zeno_HC16/Modules/bus_driver/bus_driver.kicad_sch
+Saving anchor U2 for /home/joshuas/Documents/projects/kicad/Zeno_HC16/Modules/register/register.kicad_sch
+Saved.

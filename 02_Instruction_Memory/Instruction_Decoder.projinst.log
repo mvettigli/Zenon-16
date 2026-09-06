@@ -1,0 +1,57 @@
+Plugin v0.0.1 running on KiCad 10.0.4+b1 and Python 3.14.6 (main, Jun 10 2026, 18:54:31) [GCC 15.2.0] on linux.
+Valid Board found for /home/joshuas/Documents/projects/kicad/Zeno_HC16/02_Instruction_Decoder/Instruction_Decoder.kicad_sch
+8 sheet instances entries in /home/joshuas/Documents/projects/kicad/Zeno_HC16/02_Instruction_Decoder/Instruction_Decoder.kicad_sch
+Valid Board found for /home/joshuas/Documents/projects/kicad/Zeno_HC16/02_Instruction_Decoder/../Modules/bus_selector/bus_selector.kicad_sch
+Valid Board found for /home/joshuas/Documents/projects/kicad/Zeno_HC16/02_Instruction_Decoder/../Modules/bus_driver/bus_driver.kicad_sch
+Valid Board found for /home/joshuas/Documents/projects/kicad/Zeno_HC16/02_Instruction_Decoder/../Modules/flash_memory/flash_memory.kicad_sch
+Valid Board found for /home/joshuas/Documents/projects/kicad/Zeno_HC16/02_Instruction_Decoder/../Modules/program_counter/program_counter.kicad_sch
+Valid Board found for /home/joshuas/Documents/projects/kicad/Zeno_HC16/02_Instruction_Decoder/../Modules/register/register.kicad_sch
+Anchor changed to U2
+New Anchor not found
+Anchor changed to U2
+New Anchor not found
+Anchor changed to U2
+Enabled leaf: 0a7adf6f-ebc1-4dd7-a5ba-3b851dee0882
+Enabled leaf: 0b07ade8-233c-4cf2-b795-a6079d178f8a
+Enabled leaf: 0f04fb74-45b1-48ea-9121-dfe432820503
+Enabled leaf: 1114b9a4-45ad-421b-a582-8b36b8f5da20
+Enabled leaf: 1ad58cd1-01d1-4cd1-8de6-4b21900527ff
+Enabled leaf: 614026a7-3ac9-491b-8cbd-c04fd088d196
+Enabled leaf: c8314366-1198-42a8-b845-61455267ff83
+Enabled leaf: ed69c02c-a492-49be-bb44-e31d5a408bb1
+Root item: <wx._dataview.TreeListItem object at 0x7f4659b527b0>
+Valid board for 0a7adf6f-ebc1-4dd7-a5ba-3b851dee0882
+Valid child board for 
+Instance is a branch: Root
+Valid board for 0a7adf6f-ebc1-4dd7-a5ba-3b851dee0882
+Instance is a leaf: /0a7adf6f-ebc1-4dd7-a5ba-3b851dee0882
+Valid board for 0b07ade8-233c-4cf2-b795-a6079d178f8a
+Instance is a leaf: /0b07ade8-233c-4cf2-b795-a6079d178f8a
+Valid board for 0f04fb74-45b1-48ea-9121-dfe432820503
+Instance is a leaf: /0f04fb74-45b1-48ea-9121-dfe432820503
+Valid board for 1114b9a4-45ad-421b-a582-8b36b8f5da20
+Instance is a leaf: /1114b9a4-45ad-421b-a582-8b36b8f5da20
+Valid board for 1ad58cd1-01d1-4cd1-8de6-4b21900527ff
+Instance is a leaf: /1ad58cd1-01d1-4cd1-8de6-4b21900527ff
+Valid board for 614026a7-3ac9-491b-8cbd-c04fd088d196
+Instance is a leaf: /614026a7-3ac9-491b-8cbd-c04fd088d196
+Valid board for c8314366-1198-42a8-b845-61455267ff83
+Instance is a leaf: /c8314366-1198-42a8-b845-61455267ff83
+Valid board for ed69c02c-a492-49be-bb44-e31d5a408bb1
+Instance is a leaf: /ed69c02c-a492-49be-bb44-e31d5a408bb1
+Enabled leaf: 1114b9a4-45ad-421b-a582-8b36b8f5da20
+subPcb selected Program counter with 32 anchors
+Saving info for 0a7adf6f-ebc1-4dd7-a5ba-3b851dee0882
+Saving info for 0b07ade8-233c-4cf2-b795-a6079d178f8a
+Saving info for 0f04fb74-45b1-48ea-9121-dfe432820503
+Saving info for 1114b9a4-45ad-421b-a582-8b36b8f5da20
+Saving info for 1ad58cd1-01d1-4cd1-8de6-4b21900527ff
+Saving info for 614026a7-3ac9-491b-8cbd-c04fd088d196
+Saving info for c8314366-1198-42a8-b845-61455267ff83
+Saving info for ed69c02c-a492-49be-bb44-e31d5a408bb1
+Saving anchor U2 for /home/joshuas/Documents/projects/kicad/Zeno_HC16/Modules/bus_selector/bus_selector.kicad_sch
+Saving anchor U3 for /home/joshuas/Documents/projects/kicad/Zeno_HC16/Modules/bus_driver/bus_driver.kicad_sch
+Saving anchor U2 for /home/joshuas/Documents/projects/kicad/Zeno_HC16/Modules/flash_memory/flash_memory.kicad_sch
+Saving anchor U4 for /home/joshuas/Documents/projects/kicad/Zeno_HC16/Modules/program_counter/program_counter.kicad_sch
+Saving anchor U2 for /home/joshuas/Documents/projects/kicad/Zeno_HC16/Modules/register/register.kicad_sch
+Saved.

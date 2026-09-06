@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SST39VF402C-70-4I-EKE
+D  Organized as 256K x16  Single Voltage Read and Write Operations  2.7-3.6V for SST39VF401C/402C  3.0-3.6V for SST39LF401C/402C  Superior Reliability  Endurance: 100,000 Cycles (Typical)  Greater than 100 years Data Retention  Low Power Consumption (typical values at 5 MHz)  Active Current: 5 mA (typical)  Standby Current: 3 A (typical)  Auto Low Power Mode: 3 A (typical)  Hardware Block-Protection/WP# Input Pin  Top Block-Protection (top 8 KWord)  Bottom Block-Protection (bottom
+K
+F https://www.mouser.co.uk/datasheet/2/268/20005053B-3442991.pdf
+$ENDCMP
+#
+#End Doc Library
